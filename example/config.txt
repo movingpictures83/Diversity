@@ -1,0 +1,2 @@
+Prefix plugins/Diversity/example
+Plugin Diversity inputfile parameters.txt outputfile diversity.csv
